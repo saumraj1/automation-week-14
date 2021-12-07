@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="83.896">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldAddProductToTheCartSuccessfully" time="19.402" classname="com.automation.testsuite.WomenCategoryPageTest" />
+                <testcase name="verifyUserShouldNavigateToWomenCategoryPageSuccessfully" time="3.110" classname="com.automation.testsuite.WomenCategoryPageTest" />
+                <testcase name="verifyUserShouldAddProductToTheCartSuccessfully" time="18.792" classname="com.automation.testsuite.WomenCategoryPageTest" />
+                <testcase name="verifyUserShouldAddProductToTheCartSuccessfully" time="23.138" classname="com.automation.testsuite.WomenCategoryPageTest" />
+                <testcase name="verifyUserShouldAddProductToTheCartSuccessfully" time="19.454" classname="com.automation.testsuite.WomenCategoryPageTest" />
+      
+</testsuite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Smoke Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="73.187">
+  <properties />
+  
+  
+            <testcase name="userShouldNavigateToSignInPageSuccessFully" time="5.954" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="17.749" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="VerifyThatUserShouldLogOutSuccessFully" time="6.823" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="verifyThatUserShouldLogInSuccessFullyWithValidCredentials" time="3.743" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="3.127" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="18.115" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="17.676" classname="com.automation.testsuite.SignPageTest" />
+      
+</testsuite>
